@@ -1,0 +1,10 @@
+ Volume in drive C is System
+ Volume Serial Number is 4657-513C
+
+ Directory of C:\Users\SJI-DEV-8\Desktop\MyProject
+
+04/30/2020  12:02 PM    <DIR>          .
+04/30/2020  12:02 PM    <DIR>          ..
+04/30/2020  12:02 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  435,219,787,776 bytes free
